@@ -5,5 +5,5 @@ public abstract class Shape {
     public int y;
 
     // Demo: your local change to trigger a future merge conflict
-    public String color = "blue";
+    public String color = "red";
 }
