@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `Tianyi Zhang`
-- **CCID:** `tzhang15`
+- **Full Name:** `Tianyi Zhang`; 'Mengxi Zhang'
+- **CCID:** `tzhang15`; 'mengxi7'
 
 ## References and Resources
 
