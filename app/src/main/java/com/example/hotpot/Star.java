@@ -17,7 +17,7 @@ public class Star extends Shape {
         this.innerRadius = innerRadius;
         setColor(color);
     }
-    
+
     public int getPoints() { return points; }
     public void setPoints(int points) { this.points = points; }
 
