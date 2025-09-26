@@ -2,7 +2,7 @@ package com.example.hotpot;
 
 public class Circle extends Shape {
     private double radius;
-    
+
     public Circle(int x, int y, double radius) {
         this.x = x;   // inherited from Shape
         this.y = y;   // inherited from Shape
